@@ -1,4 +1,4 @@
-package rikkei.academy.Session01;
+package rikkeiacademy.Session01;
 
 import java.util.Scanner;
 
@@ -8,6 +8,6 @@ public class Sess1_2 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Mời nhập số tiền USD: ");
         int moneyUsd = scanner.nextInt();
-        System.out.println("Số tiền việt là :" +moneyUsd*rate);
+        System.out.println("Số tiền việt là :" + moneyUsd * rate);
     }
 }

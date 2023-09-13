@@ -1,4 +1,4 @@
-package rikkei.academy.Session01;
+package rikkeiacademy.Session01;
 
 import java.util.Scanner;
 
@@ -7,6 +7,6 @@ public class Sess1_1 {
         System.out.println("Enter ur name: ");
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
-        System.out.println("hello "+name);
+        System.out.println("hello " + name);
     }
 }

@@ -1,4 +1,4 @@
-package rikkei.academy.Session01;
+package rikkeiacademy.Session01;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class Sess1_4 {
         double length = scanner.nextDouble();
         System.out.println("Nhập chiều rộng: ");
         double width = scanner.nextDouble();
-        System.out.println("Diện tích: " +width*length);
-        System.out.println("chu vi: " +2*(width+length));
+        System.out.println("Diện tích: " + width * length);
+        System.out.println("chu vi: " + 2 * (width + length));
     }
 }

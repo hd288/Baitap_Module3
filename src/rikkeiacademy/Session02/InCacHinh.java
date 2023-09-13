@@ -1,4 +1,4 @@
-package rikkei.academy.Session02;
+package rikkeiacademy.Session02;
 
 import java.util.Scanner;
 
