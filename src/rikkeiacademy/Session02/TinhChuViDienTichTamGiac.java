@@ -8,7 +8,7 @@ public class TinhChuViDienTichTamGiac {
 
         double a, b, c;
         boolean validTriangle = false;
-
+        System.out.println(!validTriangle);
         while (!validTriangle) {
             System.out.print("Nhập độ dài cạnh a của tam giác: ");
             a = scanner.nextDouble();

@@ -2,7 +2,7 @@ package rikkeiacademy.Session02;
 
 import java.util.Scanner;
 
-public class Sess2_2 {
+public class ChuanBi_Sess2_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Which month that you want to count days?");

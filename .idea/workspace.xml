@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add3">
+    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session02/TinhChuViDienTich.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session02/TinhChuViDienTich.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session02/TinhChuViDienTichTamGiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session02/TinhChuViDienTichTamGiac.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +68,13 @@
       <recent name="rikkei.academy.Session02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TinhTienLaiChoVay">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkei.academy.Calculator" />
+  <component name="RunManager" selected="Application.TinhChuViDienTich">
+    <configuration name="TimSoChiaHet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session02.TimSoChiaHet" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkei.academy.Session02.Session02.*" />
+          <option name="PATTERN" value="rikkeiacademy.Session02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoNguyenTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkei.academy.SoNguyenTo" />
+    <configuration name="TinhChuViDienTich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session02.TinhChuViDienTich" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkei.academy.Session02.Session02.*" />
+          <option name="PATTERN" value="rikkeiacademy.Session02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TinhTongSoChan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkei.academy.Session02.Session02.TinhTongSoChan" />
+    <configuration name="rikkeiacademy.Session02.TinhChuViDienTichTamGiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session02.TinhChuViDienTichTamGiac" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkei.academy.Session02.Session02.*" />
+          <option name="PATTERN" value="rikkeiacademy.Session02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TinhChuViDienTich" />
+        <item itemvalue="Application.rikkeiacademy.Session02.TinhChuViDienTichTamGiac" />
+        <item itemvalue="Application.TimSoChiaHet" />
         <item itemvalue="Application.TinhTienLaiChoVay" />
         <item itemvalue="Application.TinhChuViDienTichTamGiac" />
-        <item itemvalue="Application.TinhTongSoChan" />
-        <item itemvalue="Application.SoNguyenTo" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +157,7 @@
       <updated>1694514074123</updated>
       <workItem from="1694514075192" duration="2364000" />
       <workItem from="1694569349235" duration="4114000" />
-      <workItem from="1694576399786" duration="11114000" />
+      <workItem from="1694576399786" duration="17184000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -221,19 +223,35 @@
       <option name="project" value="LOCAL" />
       <updated>1694590859785</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add">
+      <option name="closed" value="true" />
+      <created>1694593430531</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694593430531</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add">
+      <option name="closed" value="true" />
+      <created>1694593440721</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694593440721</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add" />
     <MESSAGE value="baitap session2" />
     <MESSAGE value="add1" />
     <MESSAGE value="add2" />
     <MESSAGE value="add3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add3" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -2,7 +2,7 @@ package rikkeiacademy.Session02;
 
 import java.util.Scanner;
 
-public class Sess2_1 {
+public class ChuanBi_Sess2_1 {
     public static void main(String[] args) {
         System.out.println("Linear Equation Resolver");
         System.out.println("Given a equation 'a * x + b = c', please enter constants:");
