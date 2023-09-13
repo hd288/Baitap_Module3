@@ -4,15 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="baitap session2">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rikkei/academy/Session01/Sess1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkei/academy/Session01/Sess1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rikkei/academy/Session01/Sess1_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkei/academy/Session01/Sess1_4.java" afterDir="false" />
+    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,14 +22,22 @@
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2VICB46Zlj8gMlojHIoOpi7wVb3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,6 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Module3/Baitap_Module3",
     "node.js.detected.package.eslint": "true",
@@ -46,16 +56,18 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/Module3/Baitap_Module3/src/Main.java",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Sess1_1">
-    <configuration name="Sess1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkei.academy.Session01.Sess1_1" />
+  <component name="RunManager" selected="Application.TinhChuViDienTichTamGiac">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkei.academy.Calculator" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkei.academy.Session01.*" />
+          <option name="PATTERN" value="rikkei.academy.Session02.Session02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +75,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sess2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Session2.Sess2_1" />
+    <configuration name="SoNguyenTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkei.academy.SoNguyenTo" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Session2.*" />
+          <option name="PATTERN" value="rikkei.academy.Session02.Session02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TinhChuViDienTichTamGiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkei.academy.Session02.Session02.TinhChuViDienTichTamGiac" />
+      <module name="Baitap_Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rikkei.academy.Session02.Session02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TinhTienVeXeBus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkei.academy.TinhTienVeXeBus" />
+      <module name="Baitap_Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rikkei.academy.Session02.Session02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TinhTongSoChan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkei.academy.Session02.Session02.TinhTongSoChan" />
+      <module name="Baitap_Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rikkei.academy.Session02.Session02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +129,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sess1_1" />
-        <item itemvalue="Application.Sess2_1" />
+        <item itemvalue="Application.TinhChuViDienTichTamGiac" />
+        <item itemvalue="Application.TinhTongSoChan" />
+        <item itemvalue="Application.SoNguyenTo" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.TinhTienVeXeBus" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="" />
@@ -92,7 +149,8 @@
       <option name="presentableId" value="Default" />
       <updated>1694514074123</updated>
       <workItem from="1694514075192" duration="2364000" />
-      <workItem from="1694569349235" duration="572000" />
+      <workItem from="1694569349235" duration="4114000" />
+      <workItem from="1694576399786" duration="8373000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -118,7 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694516337613</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add1">
+      <option name="closed" value="true" />
+      <created>1694569999463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694569999463</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add2">
+      <option name="closed" value="true" />
+      <created>1694570014586</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694570014586</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +201,27 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
     <MESSAGE value="baitap session2" />
-    <option name="LAST_COMMIT_MESSAGE" value="baitap session2" />
+    <MESSAGE value="add1" />
+    <MESSAGE value="add2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/rikkei/academy/Session01/Sess1_5.java</url>
+          <line>6</line>
+          <properties class="rikkei.academy.Session01.Sess1_5" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
