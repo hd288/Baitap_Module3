@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add2">
+    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TinhChuViDienTichTamGiac">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="rikkei.academy.Session02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TinhTienLaiChoVay">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rikkei.academy.Calculator" />
       <module name="Baitap_Module3" />
@@ -101,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TinhTienVeXeBus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkei.academy.TinhTienVeXeBus" />
+    <configuration name="TinhTienLaiChoVay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session03.TinhTienLaiChoVay" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkei.academy.Session02.Session02.*" />
+          <option name="PATTERN" value="rikkeiacademy.Session03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TinhTienLaiChoVay" />
         <item itemvalue="Application.TinhChuViDienTichTamGiac" />
         <item itemvalue="Application.TinhTongSoChan" />
         <item itemvalue="Application.SoNguyenTo" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.TinhTienVeXeBus" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +155,7 @@
       <updated>1694514074123</updated>
       <workItem from="1694514075192" duration="2364000" />
       <workItem from="1694569349235" duration="4114000" />
-      <workItem from="1694576399786" duration="8373000" />
+      <workItem from="1694576399786" duration="11114000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -192,7 +197,31 @@
       <option name="project" value="LOCAL" />
       <updated>1694570014586</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add3">
+      <option name="closed" value="true" />
+      <created>1694590685611</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694590685612</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add3">
+      <option name="closed" value="true" />
+      <created>1694590707108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694590707108</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add3">
+      <option name="closed" value="true" />
+      <created>1694590859785</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694590859785</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,15 +232,16 @@
     <MESSAGE value="baitap session2" />
     <MESSAGE value="add1" />
     <MESSAGE value="add2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add2" />
+    <MESSAGE value="add3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/rikkei/academy/Session01/Sess1_5.java</url>
+          <url>file://$PROJECT_DIR$/src/rikkeiacademy/Session01/Sess1_5.java</url>
           <line>6</line>
-          <properties class="rikkei.academy.Session01.Sess1_5" method="main">
+          <properties class="rikkeiacademy.Session01.Sess1_5" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
