@@ -2,7 +2,7 @@ package rikkeiacademy.Session03;
 
 import java.util.Scanner;
 
-public class SoNguyenTo {
+public class ChuanBi_SoNguyenTo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhập một số nguyên dương: ");

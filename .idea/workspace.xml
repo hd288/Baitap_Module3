@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session02/TinhChuViDienTich.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session02/TinhChuViDienTich.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session02/TinhChuViDienTichTamGiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session02/TinhChuViDienTichTamGiac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session03/SoNguyenTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session03/ChuanBi_SoNguyenTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session03/ThietKeMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session03/ChuanBi_ThietKeMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session03/TimUocSoChungLonNhat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session03/ChuanBi_TimUocSoChungLonNhat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session03/TinhTienLaiChoVay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session03/ChuanBi_TinhTienLaiChoVay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +35,9 @@
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2VICB46Zlj8gMlojHIoOpi7wVb3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -44,31 +46,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "code.cleanup.on.save": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Module3/Baitap_Module3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Module3/Baitap_Module3/src/Main.java",
-    "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "actions.on.save",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Module3/Baitap_Module3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Module3/Baitap_Module3/src/Main.java&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="rikkei.academy.Session02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TinhChuViDienTich">
+  <component name="RunManager" selected="Application.ChuanBi_ThietKeMenu">
+    <configuration name="ChuanBi_ThietKeMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session03.ChuanBi_ThietKeMenu" />
+      <module name="Baitap_Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rikkeiacademy.Session03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChuanBi_TinhTienLaiChoVay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session03.ChuanBi_TinhTienLaiChoVay" />
+      <module name="Baitap_Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rikkeiacademy.Session03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TimSoChiaHet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session02.TimSoChiaHet" />
       <module name="Baitap_Module3" />
@@ -95,32 +123,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TinhChuViDienTichTamGiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkei.academy.Session02.Session02.TinhChuViDienTichTamGiac" />
-      <module name="Baitap_Module3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rikkei.academy.Session02.Session02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TinhTienLaiChoVay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session03.TinhTienLaiChoVay" />
-      <module name="Baitap_Module3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="rikkeiacademy.Session02.TinhChuViDienTichTamGiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session02.TinhChuViDienTichTamGiac" />
       <module name="Baitap_Module3" />
@@ -136,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChuanBi_ThietKeMenu" />
         <item itemvalue="Application.TinhChuViDienTich" />
         <item itemvalue="Application.rikkeiacademy.Session02.TinhChuViDienTichTamGiac" />
         <item itemvalue="Application.TimSoChiaHet" />
-        <item itemvalue="Application.TinhTienLaiChoVay" />
-        <item itemvalue="Application.TinhChuViDienTichTamGiac" />
+        <item itemvalue="Application.ChuanBi_TinhTienLaiChoVay" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +159,8 @@
       <updated>1694514074123</updated>
       <workItem from="1694514075192" duration="2364000" />
       <workItem from="1694569349235" duration="4114000" />
-      <workItem from="1694576399786" duration="17184000" />
+      <workItem from="1694576399786" duration="17498000" />
+      <workItem from="1694655655727" duration="297000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -239,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694593440721</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add">
+      <option name="closed" value="true" />
+      <created>1694600725153</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694600725153</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -2,7 +2,7 @@ package rikkeiacademy.Session03;
 
 import java.util.Scanner;
 
-public class ThietKeMenu {
+public class ChuanBi_ThietKeMenu {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

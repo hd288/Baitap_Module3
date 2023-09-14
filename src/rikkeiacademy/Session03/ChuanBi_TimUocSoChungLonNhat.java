@@ -2,7 +2,7 @@ package rikkeiacademy.Session03;
 
 import java.util.Scanner;
 
-public class TimUocSoChungLonNhat {
+public class ChuanBi_TimUocSoChungLonNhat {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
