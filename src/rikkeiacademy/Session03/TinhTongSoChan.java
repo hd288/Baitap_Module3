@@ -24,4 +24,3 @@ public class TinhTongSoChan {
         scanner.close();
     }
 }
-
