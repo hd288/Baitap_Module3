@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add">
+    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add chuan bi ss4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session04/TrenLop_MinValueInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session04/TrenLop_MinValueInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,33 @@
       <recent name="rikkei.academy.Session02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChuanBi_CountPassedStudent">
+  <component name="RunManager" selected="Application.Arr2Dimensions">
+    <configuration name="Arr2Dimensions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Arr2Dimensions" />
+      <module name="Baitap_Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrOneDimension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.ArrOneDimension" />
+      <module name="Baitap_Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ChuanBi_ConvertTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session04.ChuanBi_ConvertTemperature" />
       <module name="Baitap_Module3" />
@@ -93,19 +120,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChuanBi_FindMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session04.ChuanBi_FindMax" />
-      <module name="Baitap_Module3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ChuanBi_FindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session04.ChuanBi_FindMin" />
       <module name="Baitap_Module3" />
@@ -119,26 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChuanBi_FindName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session04.ChuanBi_FindName" />
-      <module name="Baitap_Module3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arr2Dimensions" />
+        <item itemvalue="Application.ArrOneDimension" />
         <item itemvalue="Application.ChuanBi_CountPassedStudent" />
         <item itemvalue="Application.ChuanBi_FindMin" />
         <item itemvalue="Application.ChuanBi_ConvertTemperature" />
-        <item itemvalue="Application.ChuanBi_FindMax" />
-        <item itemvalue="Application.ChuanBi_FindName" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +158,8 @@
       <workItem from="1694569349235" duration="4114000" />
       <workItem from="1694576399786" duration="17498000" />
       <workItem from="1694655655727" duration="652000" />
-      <workItem from="1694659441126" duration="16772000" />
+      <workItem from="1694659441126" duration="16955000" />
+      <workItem from="1694743142055" duration="12213000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -263,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694687281687</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add chuan bi ss4">
+      <option name="closed" value="true" />
+      <created>1694688975938</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694688975938</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,7 +285,8 @@
     <MESSAGE value="add2" />
     <MESSAGE value="add3" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="add chuan bi ss4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add chuan bi ss4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
