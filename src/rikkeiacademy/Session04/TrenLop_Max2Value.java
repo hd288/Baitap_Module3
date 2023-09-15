@@ -3,7 +3,7 @@ package rikkeiacademy.Session04;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class TrenLop_Min2Value {
+public class TrenLop_Max2Value {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("nhập phần tử của mảng: ");
@@ -15,7 +15,7 @@ public class TrenLop_Min2Value {
         }
         System.out.println("mảng vừa nhập là: " + Arrays.toString(arrIntergers));
         int maxValue = arrIntergers[0];
-        int maxValue2 = Integer.MIN_VALUE;
+        int maxValue2 = arrIntergers[1];  // hoặc Integer.MIN_VALUE;
 
         for (int i = 1; i < arrIntergers.length; i++) {
             if (arrIntergers[i] > maxValue) {
