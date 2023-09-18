@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add demo add to array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session04/TrenLop_Min2Value.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session04/TrenLop_Max2Value.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,31 +42,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Module3/Baitap_Module3&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Module3/Baitap_Module3/src/Main.java&quot;,
-    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Module3/Baitap_Module3/src/rikkeiacademy/Session06/ChuanBi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Module3/Baitap_Module3/src/Main.java",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="rikkei.academy.Session02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChuanBi_CrawlSongExample">
+  <component name="RunManager" selected="Application.TrenLop_ReverseString">
     <configuration name="AddToArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo.AddToArr" />
       <module name="Baitap_Module3" />
@@ -94,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChuanBi_ValidateAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session05.ChuanBi_ValidateAccount" />
+    <configuration name="TrenLop_CheckEmptyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session05.TrenLop_CheckEmptyString" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
@@ -107,21 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChuanBi_ValidateEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session05.ChuanBi_ValidateEmail" />
-      <module name="Baitap_Module3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Weekends_ConsoleApp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session04.Weekends_ConsoleApp1" />
+    <configuration name="TrenLop_MinValueInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session04.TrenLop_MinValueInArray" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
@@ -133,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TrenLop_ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session05.TrenLop_ReverseString" />
+      <module name="Baitap_Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rikkeiacademy.Session05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TrenLop_ReverseString" />
+        <item itemvalue="Application.TrenLop_CheckEmptyString" />
+        <item itemvalue="Application.TrenLop_MinValueInArray" />
         <item itemvalue="Application.ChuanBi_CrawlSongExample" />
         <item itemvalue="Application.AddToArr" />
-        <item itemvalue="Application.ChuanBi_ValidateAccount" />
-        <item itemvalue="Application.ChuanBi_ValidateEmail" />
-        <item itemvalue="Application.Weekends_ConsoleApp1" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +159,8 @@
       <workItem from="1694655655727" duration="652000" />
       <workItem from="1694659441126" duration="16955000" />
       <workItem from="1694743142055" duration="21325000" />
+      <workItem from="1694921142823" duration="732000" />
+      <workItem from="1695000857844" duration="5495000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
