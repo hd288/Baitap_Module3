@@ -17,7 +17,7 @@ public class Weekends_ConsoleApp2 {
             System.out.println("2. In giá trị các phần tử theo ma trận");
             System.out.println("3. In giá trị các phần tử nằm trên đường biên của ma trận và tính tổng");
             System.out.println("4. In giá trị các phần tử nằm trên đường chéo chính và chéo phụ và tính tổng");
-            System.out.println("5. In ra giá trị lớn nhất và nhỏ nhất trong mảng");
+            System.out.println("5. In demo.ra giá trị lớn nhất và nhỏ nhất trong mảng");
             System.out.println("6. Sắp xếp mảng tăng dần theo cột");
             System.out.println("7. Thoát");
             System.out.println("**************************************************");

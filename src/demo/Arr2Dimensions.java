@@ -16,10 +16,10 @@ public class Arr2Dimensions {
             System.out.println("*****************Menu*****************");
             System.out.println("1. Nhập giá trị các phần tử của mảng:");
             System.out.println("2. In giá trị các phần tử mảng theo ma trận:");
-            System.out.println("3. In ra giá trị các phần tử chia hết cho 3 và 5 trong mảng:");
+            System.out.println("3. In demo.ra giá trị các phần tử chia hết cho 3 và 5 trong mảng:");
             System.out.println("4. Tính tổng các phần tử trong mảng:");
             System.out.println("5. Nhập vào chỉ số dòng, tính tổng dòng theo chỉ số dòng:");
-            System.out.println("6. In ra giá trị các phần tử là số nguyên tố và tính tổng:");
+            System.out.println("6. In demo.ra giá trị các phần tử là số nguyên tố và tính tổng:");
             System.out.println("7. Sắp xếp các cột  trong mảng giảm dần:");
             System.out.println("8. Thoát");
             System.out.print("Chọn một tùy chọn (1-8): ");
@@ -36,7 +36,7 @@ public class Arr2Dimensions {
                     printArray(arr2D, rows, cols);
                     break;
                 case 3:
-                    // In ra giá trị các phần tử chia hết cho 3 và 5 trong mảng
+                    // In demo.ra giá trị các phần tử chia hết cho 3 và 5 trong mảng
                     printDivisibleBy3And5(arr2D, rows, cols);
                     break;
                 case 4:
@@ -48,7 +48,7 @@ public class Arr2Dimensions {
                     calculateRowSum(arr2D, rows, cols, scanner);
                     break;
                 case 6:
-                    // In ra giá trị các phần tử là số nguyên tố và tính tổng
+                    // In demo.ra giá trị các phần tử là số nguyên tố và tính tổng
                     printAndCalculatePrimes(arr2D, rows, cols);
                     break;
                 case 7:

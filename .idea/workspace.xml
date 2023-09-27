@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add session07">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Arr2Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Arr2Dimensions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session03/ConsoleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session03/ConsoleApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session04/ChuanBi_FindMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session04/ChuanBi_FindMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session04/Weekends_ConsoleApp1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session04/Weekends_ConsoleApp1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session04/Weekends_ConsoleApp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session04/Weekends_ConsoleApp2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session05/TrenLop_ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session05/TrenLop_ReverseString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +39,7 @@
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -72,13 +79,13 @@
       <recent name="rikkei.academy.Session02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StudentImp">
-    <configuration name="BookImp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session06.TrenLop.ra.imp.BookImp" />
+  <component name="RunManager" selected="Application.BookManagement">
+    <configuration name="BookManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.run.BookManagement" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session06.TrenLop.ra.entity.*" />
+          <option name="PATTERN" value="ra.run.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +93,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session06.ChuanBi.Product" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Baitap_Module3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.ra.SchoolManagement" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session06.ChuanBi.*" />
+          <option name="PATTERN" value="demo.ra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentImp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session06.TrenLop.student.StudentImp" />
+    <configuration name="StoreManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session07.oopstore.implement.StoreManagement" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session06.TrenLop.student.*" />
+          <option name="PATTERN" value="rikkeiacademy.Session07.oopstore.implement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,25 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrenLop_CheckEmptyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session05.TrenLop_CheckEmptyString" />
+    <configuration name="rikkeiacademy.Session08.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session08.Main" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TrenLop_ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session05.TrenLop_ReverseString" />
-      <module name="Baitap_Module3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session05.*" />
+          <option name="PATTERN" value="rikkeiacademy.Session08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StudentImp" />
-        <item itemvalue="Application.BookImp" />
-        <item itemvalue="Application.TrenLop_CheckEmptyString" />
-        <item itemvalue="Application.Product" />
-        <item itemvalue="Application.TrenLop_ReverseString" />
+        <item itemvalue="Application.BookManagement" />
+        <item itemvalue="Application.SchoolManagement" />
+        <item itemvalue="Application.rikkeiacademy.Session08.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.StoreManagement" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +168,11 @@
       <workItem from="1694743142055" duration="21325000" />
       <workItem from="1694921142823" duration="732000" />
       <workItem from="1695000857844" duration="13564000" />
-      <workItem from="1695088161289" duration="14206000" />
+      <workItem from="1695088161289" duration="14925000" />
+      <workItem from="1695196248076" duration="31626000" />
+      <workItem from="1695607082606" duration="1557000" />
+      <workItem from="1695608665657" duration="23807000" />
+      <workItem from="1695783578132" duration="5254000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -345,7 +350,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695116543006</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add session07">
+      <option name="closed" value="true" />
+      <created>1695118225452</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1695118225452</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add session07">
+      <option name="closed" value="true" />
+      <created>1695118237193</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1695118237193</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

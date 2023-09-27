@@ -17,7 +17,7 @@ public class Weekends_ConsoleApp1 {
             System.out.println("2. Hiển thị giá trị các phần tử mảng");
             System.out.println("3. In các phần tử giá trị chẵn trong mảng và tính tổng");
             System.out.println("4. In các phần tử có giá trị là số nguyên tố và tính tổng");
-            System.out.println("5. In ra phần tử có giá trị lớn nhất và nhỏ nhất trong mảng");
+            System.out.println("5. In demo.ra phần tử có giá trị lớn nhất và nhỏ nhất trong mảng");
             System.out.println("6. Sắp xếp mảng giảm dần");
             System.out.println("7. Nhập vào giá trị số nguyên (m) và thống kê trong mảng có bao nhiêu phần tử có giá trị là m");
             System.out.println("8. Thoát");

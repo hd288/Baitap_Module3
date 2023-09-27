@@ -20,7 +20,7 @@ public class ConsoleApp {
             System.out.println("1. Kiểm tra số chẵn/lẻ");
             System.out.println("2. Kiểm tra số nguyên tố");
             System.out.println("3. Kiểm tra số hoàn hảo");
-            System.out.println("4. In ra các số chia hết cho 3 và 5 trong khoảng 1-" + number);
+            System.out.println("4. In demo.ra các số chia hết cho 3 và 5 trong khoảng 1-" + number);
             System.out.println("5. Tính tổng các ước số của " + number);
             System.out.println("6. Tính tổng các số nguyên tố trong khoảng 1-" + number);
             System.out.println("7. Nhập 2 số nguyên (number1, number2), kiểm tra number có trong khoảng (number1,number2)");
@@ -113,7 +113,7 @@ public class ConsoleApp {
         return sum == n;
     }
 
-    // Hàm in ra các số chia hết cho 3 và 5 trong khoảng 1-number
+    // Hàm in demo.ra các số chia hết cho 3 và 5 trong khoảng 1-number
     public static void printDivisibleBy3And5(int number) {
         System.out.println("Các số chia hết cho 3 và 5 trong khoảng 1-" + number + ":");
         for (int i = 1; i <= number; i++) {

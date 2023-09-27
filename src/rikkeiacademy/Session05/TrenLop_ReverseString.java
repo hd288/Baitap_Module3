@@ -6,7 +6,7 @@ public class TrenLop_ReverseString {
         String originalString = "Hello, World!";
         String reversedString = reverseString(originalString);
 
-        // In ra chuỗi đảo ngược
+        // In demo.ra chuỗi đảo ngược
         System.out.println("Chuỗi ban đầu: " + originalString);
         System.out.println("Chuỗi đảo ngược: " + reversedString);
     }

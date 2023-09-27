@@ -30,7 +30,7 @@ public class ChuanBi_FindMax {
             }
         }
 
-        // In ra giá trị tài sản lớn nhất và vị trí của nó
+        // In demo.ra giá trị tài sản lớn nhất và vị trí của nó
         System.out.println("Giá trị tài sản lớn nhất là: " + maxWealth + " tỷ đô");
         System.out.println("Nằm ở vị trí thứ " + (indexOfMaxWealth + 1) + " trong danh sách.");
     }
