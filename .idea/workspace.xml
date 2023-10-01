@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add" />
+    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add ss8">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,6 +166,7 @@
       <workItem from="1695607082606" duration="1557000" />
       <workItem from="1695608665657" duration="23807000" />
       <workItem from="1695783578132" duration="5534000" />
+      <workItem from="1695790139700" duration="456000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -365,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695789917210</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="add ss8">
+      <option name="closed" value="true" />
+      <created>1695790198023</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1695790198023</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +397,8 @@
     <MESSAGE value="add session06" />
     <MESSAGE value="add session07" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="add ss8" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ss8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
