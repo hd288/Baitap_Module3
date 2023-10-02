@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add ss8">
+    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add ss9 ss10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Module3/Baitap_Module3/src/rikkeiacademy/Session06/ChuanBi&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Module3/Baitap_Module3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,13 +72,13 @@
       <recent name="rikkei.academy.Session02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BookManagement">
-    <configuration name="BookManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ra.run.BookManagement" />
+  <component name="RunManager" selected="Application.DecimalToBinary">
+    <configuration name="CheckDecreasingString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session11.CheckDecreasingString" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ra.run.*" />
+          <option name="PATTERN" value="rikkeiacademy.Session11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,19 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Baitap_Module3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SchoolManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo.ra.SchoolManagement" />
+    <configuration name="CheckPrimeNumberString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session11.CheckPrimeNumberString" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.ra.*" />
+          <option name="PATTERN" value="rikkeiacademy.Session11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StoreManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session07.oopstore.implement.StoreManagement" />
+    <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session11.DecimalToBinary" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session07.oopstore.implement.*" />
+          <option name="PATTERN" value="rikkeiacademy.Session11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +112,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rikkeiacademy.Session08.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session08.Main" />
+    <configuration name="MinElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session11.MinElementInArray" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session08.*" />
+          <option name="PATTERN" value="rikkeiacademy.Session11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session11.SimpleCalculator" />
+      <module name="Baitap_Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rikkeiacademy.Session11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BookManagement" />
-        <item itemvalue="Application.SchoolManagement" />
-        <item itemvalue="Application.rikkeiacademy.Session08.Main" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.StoreManagement" />
+        <item itemvalue="Application.DecimalToBinary" />
+        <item itemvalue="Application.CheckPrimeNumberString" />
+        <item itemvalue="Application.CheckDecreasingString" />
+        <item itemvalue="Application.MinElementInArray" />
+        <item itemvalue="Application.SimpleCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +173,8 @@
       <workItem from="1695608665657" duration="23807000" />
       <workItem from="1695783578132" duration="5534000" />
       <workItem from="1695790139700" duration="456000" />
+      <workItem from="1696168443890" duration="376000" />
+      <workItem from="1696228910044" duration="6410000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -376,7 +384,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695790198023</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add ss9 ss10">
+      <option name="closed" value="true" />
+      <created>1696168699109</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1696168699109</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add ss9 ss10">
+      <option name="closed" value="true" />
+      <created>1696168711478</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1696168711478</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,7 +422,8 @@
     <MESSAGE value="add session07" />
     <MESSAGE value="add" />
     <MESSAGE value="add ss8" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ss8" />
+    <MESSAGE value="add ss9 ss10" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ss9 ss10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
