@@ -1,6 +1,6 @@
 package rikkeiacademy.Session13.stream_api;
 
-import rikkeiacademy.Session12.entity.Person;
+import rikkeiacademy.Session13.entity.Person;
 
 import java.util.Arrays;
 import java.util.List;
