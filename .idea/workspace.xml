@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add ss11">
+    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add ss12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rikkeiacademy/Session11/BT3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rikkeiacademy/Session11/BT3/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,7 @@
       <recent name="rikkei.academy.Session02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DecimalToBinary">
+  <component name="RunManager" selected="Application.Exercise2">
     <configuration name="CheckDecreasingString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session11.CheckDecreasingString" />
       <module name="Baitap_Module3" />
@@ -113,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session11.MinElementInArray" />
+    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session12.stream_api.Exercise1" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session11.*" />
+          <option name="PATTERN" value="rikkeiacademy.Session12.stream_api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session11.SimpleCalculator" />
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session12.stream_api.Exercise2" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session11.*" />
+          <option name="PATTERN" value="rikkeiacademy.Session12.stream_api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.Exercise1" />
         <item itemvalue="Application.DecimalToBinary" />
         <item itemvalue="Application.CheckPrimeNumberString" />
         <item itemvalue="Application.CheckDecreasingString" />
-        <item itemvalue="Application.MinElementInArray" />
-        <item itemvalue="Application.SimpleCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +175,7 @@
       <workItem from="1695790139700" duration="456000" />
       <workItem from="1696168443890" duration="376000" />
       <workItem from="1696228910044" duration="7146000" />
-      <workItem from="1696300699233" duration="4228000" />
+      <workItem from="1696300699233" duration="9864000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -410,7 +409,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696235635706</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="add ss12">
+      <option name="closed" value="true" />
+      <created>1696383095692</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1696383095692</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,7 +441,8 @@
     <MESSAGE value="add ss8" />
     <MESSAGE value="add ss9 ss10" />
     <MESSAGE value="add ss11" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ss11" />
+    <MESSAGE value="add ss12" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ss12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
