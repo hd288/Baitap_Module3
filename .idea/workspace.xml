@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="add ss12 2nd" />
+    <list default="true" id="db096678-aebb-4400-8307-82c2b012a7cf" name="Changes" comment="update ss12">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,39 +72,13 @@
       <recent name="rikkei.academy.Session02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise2">
-    <configuration name="CheckDecreasingString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session11.CheckDecreasingString" />
+  <component name="RunManager" selected="Application.InsertionSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.sort.BubbleSort" />
       <module name="Baitap_Module3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckPrimeNumberString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session11.CheckPrimeNumberString" />
-      <module name="Baitap_Module3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rikkeiacademy.Session11.DecimalToBinary" />
-      <module name="Baitap_Module3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rikkeiacademy.Session11.*" />
+          <option name="PATTERN" value="demo.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,13 +112,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GenericSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.search.GenericSearch" />
+      <module name="Baitap_Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.sort.InsertionSort" />
+      <module name="Baitap_Module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.GenericSearch" />
         <item itemvalue="Application.Exercise2" />
         <item itemvalue="Application.Exercise1" />
-        <item itemvalue="Application.DecimalToBinary" />
-        <item itemvalue="Application.CheckPrimeNumberString" />
-        <item itemvalue="Application.CheckDecreasingString" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +175,11 @@
       <workItem from="1695790139700" duration="456000" />
       <workItem from="1696168443890" duration="376000" />
       <workItem from="1696228910044" duration="7146000" />
-      <workItem from="1696300699233" duration="10548000" />
+      <workItem from="1696300699233" duration="11505000" />
+      <workItem from="1696481417724" duration="6141000" />
+      <workItem from="1696496874632" duration="616000" />
+      <workItem from="1696556052795" duration="1882000" />
+      <workItem from="1696575567139" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -423,7 +429,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696412491686</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="add ss13">
+      <option name="closed" value="true" />
+      <created>1696414004011</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1696414004011</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update ss12">
+      <option name="closed" value="true" />
+      <created>1696414344360</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1696414344360</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,7 +471,9 @@
     <MESSAGE value="add ss11" />
     <MESSAGE value="add ss12" />
     <MESSAGE value="add ss12 2nd" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ss12 2nd" />
+    <MESSAGE value="add ss13" />
+    <MESSAGE value="update ss12" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ss12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
