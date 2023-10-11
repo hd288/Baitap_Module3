@@ -13,4 +13,14 @@ public class ScannerUtils {
             }
         }
     }
+
+    public static Double inputDouble(Scanner scanner) {
+        while (true) {
+            try {
+                return Double.parseDouble(scanner.nextLine());
+            } catch (NumberFormatException e) {
+                System.out.println("Invalid input!");
+            }
+        }
+    }
 }
