@@ -1,0 +1,4 @@
+Character streams in Java are designed to handle 16-bit Unicode input and output.
+Among the classes associated with character streams, FileReader and FileWriter are frequently employed.
+Internally, FileReader relies on FileInputStream, while FileWriter relies on FileOutputStream.
+The key distinction is that FileReader reads two bytes, and FileWriter writes two bytes, respectively.
